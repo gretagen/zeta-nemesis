@@ -9,4 +9,4 @@ PKGBuild packages for the [Zeta](https://github.com/gretagen/zeta) package manag
 ```
 
 Each package is referenced from the central registry at
-[zeta-packages](https://github.com/gretagen/zeta-packages).
+[zeta-index](https://github.com/gretagen/zeta-index).
